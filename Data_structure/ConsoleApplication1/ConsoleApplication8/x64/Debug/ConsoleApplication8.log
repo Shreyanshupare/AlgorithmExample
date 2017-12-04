@@ -1,0 +1,4 @@
+﻿  ConsoleApplication8.cpp
+c:\users\bizruntime41\documents\visual studio 2015\projects\c-programming\data_structure\consoleapplication1\consoleapplication8\consoleapplication8.cpp(30): warning C4013: '_getch' undefined; assuming extern returning int
+  ConsoleApplication8.vcxproj -> C:\Users\bizruntime41\Documents\Visual Studio 2015\Projects\C-programming\Data_structure\ConsoleApplication1\x64\Debug\ConsoleApplication8.exe
+  ConsoleApplication8.vcxproj -> C:\Users\bizruntime41\Documents\Visual Studio 2015\Projects\C-programming\Data_structure\ConsoleApplication1\x64\Debug\ConsoleApplication8.pdb (Full PDB)

@@ -1,0 +1,2 @@
+﻿  ConsoleApplication3.cpp
+c:\users\bizruntime41\documents\visual studio 2015\projects\c-programming\data_structure\consoleapplication1\consoleapplication3\consoleapplication3.cpp(44): error C4703: potentially uninitialized local pointer variable 'rear' used

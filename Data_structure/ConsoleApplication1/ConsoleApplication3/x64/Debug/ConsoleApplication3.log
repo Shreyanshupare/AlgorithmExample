@@ -1,0 +1,7 @@
+﻿  ConsoleApplication3.cpp
+c:\users\bizruntime41\documents\visual studio 2015\projects\c-programming\data_structure\consoleapplication1\consoleapplication3\consoleapplication3.cpp(91): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\bizruntime41\documents\visual studio 2015\projects\c-programming\data_structure\consoleapplication1\consoleapplication3\consoleapplication3.cpp(91): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\bizruntime41\documents\visual studio 2015\projects\c-programming\data_structure\consoleapplication1\consoleapplication3\consoleapplication3.cpp(91): note: the missing variadic argument 2 is required by format string '%s'
+  c:\users\bizruntime41\documents\visual studio 2015\projects\c-programming\data_structure\consoleapplication1\consoleapplication3\consoleapplication3.cpp(91): note: this argument is used as a buffer size
+c:\users\bizruntime41\documents\visual studio 2015\projects\c-programming\data_structure\consoleapplication1\consoleapplication3\consoleapplication3.cpp(94): error C4700: uninitialized local variable 'index' used
+c:\users\bizruntime41\documents\visual studio 2015\projects\c-programming\data_structure\consoleapplication1\consoleapplication3\consoleapplication3.cpp(98): error C4700: uninitialized local variable 'count' used
